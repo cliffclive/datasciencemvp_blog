@@ -1,7 +1,7 @@
 Title: Welcome to Data Science MVP!
 Author: Cliff Clive
 Date: 2019-03-26 16:40
-Category: blogging
+Category: blog
 Tags: python, datascience, engineering, workflow, mvp
 Slug: welcome
 

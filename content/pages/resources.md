@@ -9,6 +9,7 @@ status: published
 One of my favorite things about teaching at [Metis](https://thisismetis.com) is that every quarter, as our students work on their research projects, they post links to useful resources that they find online. Lots of these are things I've never heard of before, and wouldn't have found without researching a specific question. I'll share those here, and use this page as a To Do list for deciding on future topics to write about.
 
 ### Tools
+
 [neuron](https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE): An Interactive Programming Experience for Data Scientists, extension for VS Code
 
 [regexr](https://regexr.com/): an online tool to learn, build, & test Regular Expressions
@@ -18,6 +19,7 @@ One of my favorite things about teaching at [Metis](https://thisismetis.com) is 
 [SoloLearn](https://www.sololearn.com/Courses): learn python, SQL, javascript, html, and more on the web or on your phone
 
 ### Workflows
+
 [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/): A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 
 [Equinor Data Science Template](https://github.com/equinor/data-science-template): A starter template for data science projects
