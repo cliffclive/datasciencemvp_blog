@@ -8,7 +8,7 @@ status: published
 
 ## Data Science MVP: The Template
 
-The main purpose of this blog is to support improved workflows for data scientists, and the main tool for that is the **Data Science MVP project template**. 
+The **Data Science MVP project template** is designed to support improved workflows for data scientists, which is the main objective of this blog.
 
 [Here is my blog post explaining how to use the template.](https://datasciencemvp.com/articles/2019/04/16/datasciencemvp_thetemplate/)
 
