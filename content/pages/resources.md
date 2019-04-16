@@ -6,6 +6,16 @@ slug: resources
 status: published
 
 
+## The Template
+
+The main purpose of this blog is to support improved workflows for data scientists, and the main tool for that is the Data Science MVP project template. 
+
+[Here is my blog post explaining how to use the template.](https://datasciencemvp.com/articles/2019/04/16/datasciencemvp_thetemplate/)
+
+[Here is a link to the template on GitHub.](https://github.com/cliffclive/datasciencemvp)
+
+### Other Goodies
+
 One of my favorite things about teaching at [Metis](https://thisismetis.com) is that every quarter, as our students work on their research projects, they post links to useful resources that they find online. Lots of these are things I've never heard of before, and wouldn't have found without researching a specific question. I'll share those here, and use this page as a To Do list for deciding on future topics to write about.
 
 ### Tools
