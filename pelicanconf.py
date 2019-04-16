@@ -15,8 +15,9 @@ PYGMENTS_STYLE = 'friendly'
 
 LINKS = (('Metis', 'https://www.thisismetis.com/'),
         ('MixCloud', 'https://www.mixcloud.com/dj-conxn/'),)
-SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/cliffordclive/'),
-        ('Twitter', 'https://twitter.com/cliffclarkclive'),)
+SOCIAL = ( ('GitHub', 'https://github.com/cliffclive/datasciencemvp'),
+    ('LinkedIn', 'https://www.linkedin.com/in/cliffordclive/'),
+    ('Twitter', 'https://twitter.com/cliffclarkclive'),)
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
