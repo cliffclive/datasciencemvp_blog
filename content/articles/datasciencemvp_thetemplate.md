@@ -21,13 +21,13 @@ Once the `mvp.ipynb` notebook is completed and the code is exported to `/src`, t
 First you will need to install `cookiecutter` if you haven't already
 
 ```bash
-pip install cookiecutter
+$ pip install cookiecutter
 ```
 
 and then run the following command from the terminal to create a new project directory loaded with the files and folders from the template:
 
 ```bash
-cookiecutter https://github.com/cliffclive/datasciencemvp
+$ cookiecutter https://github.com/cliffclive/datasciencemvp
 ```
 
 The prompt in the terminal will guide you through naming your project and its filepath, and then populate the project directories. 
