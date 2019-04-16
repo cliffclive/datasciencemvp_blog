@@ -4,7 +4,7 @@ Date: 2019-04-16
 Category: blog
 Tags: python, datascience, design, workflow, mvp
 Slug: aosemn
-Status: hidden
+Status: published
 
 The OSEMN (Obtain, Scrub, Explore, Model, Interpret) framework for data science has been widely adopted since [Hilary Mason introduced the concept in 2010](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/). This is by no means the only workflow out there -- I particularly like Ciara Byrne's[Development Workflows for Data Scientists](https://resources.github.com/downloads/development-workflows-data-scientists.pdf) -- but they're all variations of the same core modules of a pipeline. I like OSEMN for the simple reason that it's easy to remember, and so it's more likely that I'll stick to the steps. (And that I can convince my students at [Metis](https://thisismetis.com) to use those steps in their own projects.)
 
