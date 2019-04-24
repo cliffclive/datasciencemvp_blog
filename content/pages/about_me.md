@@ -1,9 +1,10 @@
-title: About Me
+title: About Us
 author: Cliff Clive
 date: 2019-03-26
 modified: 2019-03-26
-slug: about-me
+slug: about-us
 status: published
+comments: enabled
 
 ![me]({static}/img/me_400x400.jpg)
 
@@ -16,3 +17,8 @@ I'm on a mission to help modernize the 21st-century workforce. With artificial i
 This blog is intended to be a resource for my students (and you, fellow data scientist) to be able to build data science projects faster, with a goal of getting to a Minimum Viable Product within a few hours of work. I'll be taking a look at best practices for coding and engineering. I also will put together lightweight frameworks to make it easy for data scientists to plug their models into mobile and web apps so they can share their work with the world.
 
 
+## About You
+
+I'd love to hear about who is using Data Science MVP and what sorts of projects you're using it for. (Also, feedback is always welcome.) 
+
+Introduce yourself and your project in the comments below!
