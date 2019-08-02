@@ -82,3 +82,11 @@ twine upload -u PYPI_USERNAME dist/*
 ```
 
 You may also be interested in setting up docstrings, unit tests, and continuous integration. Brendan Herger's [cheat sheet](https://www.hergertarian.com/cheat-sheet-publishing-a-python-package) to publishing Python packages gives a decent overview to these topics, with links to more in-depth resources.
+
+# What if I'm Really Not Interested in Publishing a Python Package?
+
+Then don't do it. That part is definitely optional. However, I would _strongly_ recommend moving your code out of your MVP notebook and into a local source directory, and then importing those into a dev notebook. That refactoring stage is the most important thing I've shared in this article.
+
+That being said, hopefully the packaging resources I've shared here will convince many of you that building and publishing your own Python packages is really not that hard to do. If you're doing work that's worth sharing (and it's not proprietary), there will be others who want to use it. And if you consider yourself more of a researcher than an expert coder, that's even a _better_ reason to share your code. Don't be shy! Let the community optimize it for you!
+
+If you find this helpful, leave a comment below or send me an email. I'd love to see what projects you're working on and what packages you're releasing to support them.
