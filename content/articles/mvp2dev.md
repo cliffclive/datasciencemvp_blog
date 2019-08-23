@@ -6,8 +6,6 @@ Tags: python, datascience, design, workflow, mvp, dev
 Slug: mvp2dev
 Status: published
 
-# After the MVP — Moving to a Dev Workflow
-
 From an engineering perspective, building a minimum viable product is an opportunity to quickly test an idea and see if it works. It doesn't need to be the best solution, it should just be a usable solution. If it is, then we can move on to the development stage and make it work well.
 
 The objectives of the MVP stage are:
